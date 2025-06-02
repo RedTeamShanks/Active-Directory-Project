@@ -15,7 +15,7 @@ This project establishes a comprehensive virtual cybersecurity lab using Oracle 
 - Enabling Remote Desktop on Windows.
 - PowerShell scripting for tasks (Invoke-WebRequest, Set-ExecutionPolicy).
 
-##Tools Used
+## Tools Used
 - Oracle VM VirtualBox Manager: For creating and managing virtual machines (VMs).
 - Splunk Server: For log analysis and monitoring.
 - Splunk Universal Forwarder: For data forwarding to Splunk.
@@ -30,7 +30,7 @@ This project establishes a comprehensive virtual cybersecurity lab using Oracle 
 - Kali Linux: Used as an attacker machine in the lab setup.
 
 # Steps
-##vm installation
+## vm installation
 - kali linux
 - windows 10
 - unbuntu server
